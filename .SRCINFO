@@ -1,0 +1,11 @@
+pkgbase = owlplug-bin
+	pkgdesc = Audio plugin manager. Small tool to manage VST / AU / LV2 plugins on Windows, MacOS and Linux.
+	pkgver = 1.28.1
+	pkgrel = 1
+	url = https://owlplug.com/
+	arch = x86_64
+	license = GPL-3.0
+	source = https://github.com/DropSnorz/OwlPlug/releases/download/1.28.1/OwlPlug-1.28.1.deb
+	sha256sums = aab63b6831c5d0c87e0d94cddd13cf866e024eedb10bfb3179f87e834efaadb2
+
+pkgname = owlplug-bin
